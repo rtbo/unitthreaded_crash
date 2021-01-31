@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/unitthreaded_crash
+unitthreaded_crash.so
+unitthreaded_crash.dylib
+unitthreaded_crash.dll
+unitthreaded_crash.a
+unitthreaded_crash.lib
+unitthreaded_crash-test-*
+*.exe
+*.o
+*.obj
+*.lst
+libtest
